@@ -182,7 +182,7 @@ Volume=<input type="text" [value]="volume"> Meters<sup>3</sup>
 
 ## OUTPUT:
 
-![git](angular_calculation.png)
+![git](ZAHI.png)
 
 
 ## Result:
